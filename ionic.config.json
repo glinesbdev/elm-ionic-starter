@@ -1,0 +1,7 @@
+{
+  "name": "elm-chat-app-mobile",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
