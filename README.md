@@ -7,4 +7,5 @@
 
 ## Running the app
 `ionic serve --watch`
+
 Check the [Ionic Documentation](https://ionicframework.com/docs/building/running) for more detailed information.
